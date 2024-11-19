@@ -2,7 +2,7 @@
 
  
 
-## 🚀 Quick Start
+## packages and frame work used:
 
 ###   prettier tailwind style - for - consistent styling.
 
